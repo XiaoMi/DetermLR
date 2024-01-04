@@ -1,0 +1,1302 @@
+[
+    {
+        "id": "logical_deduction_0",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a green book, a blue book, a white book, a purple book, and a yellow book. The blue book is to the right of the yellow book. The white book is to the left of the yellow book. The blue book is the second from the right. The purple book is the second from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The green book is the second from the left.",
+            "B) The blue book is the second from the left.",
+            "C) The white book is the second from the left.",
+            "D) The purple book is the second from the left.",
+            "E) The yellow book is the second from the left."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_1",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a convertible, a sedan, a tractor, a minivan, and a limousine. The tractor is newer than the minivan. The tractor is older than the limousine. The convertible is older than the sedan. The convertible is the second-newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The convertible is the second-newest.",
+            "B) The sedan is the second-newest.",
+            "C) The tractor is the second-newest.",
+            "D) The minivan is the second-newest.",
+            "E) The limousine is the second-newest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_2",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a station wagon, a sedan, a tractor, a motorcyle, and a limousine. The tractor is newer than the motorcyle. The motorcyle is newer than the sedan. The limousine is the oldest. The station wagon is the newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The station wagon is the oldest.",
+            "B) The sedan is the oldest.",
+            "C) The tractor is the oldest.",
+            "D) The motorcyle is the oldest.",
+            "E) The limousine is the oldest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_3",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: watermelons, plums, apples, peaches, and kiwis. The apples are less expensive than the peaches. The plums are the cheapest. The kiwis are the second-cheapest. The watermelons are more expensive than the peaches.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The watermelons are the most expensive.",
+            "B) The plums are the most expensive.",
+            "C) The apples are the most expensive.",
+            "D) The peaches are the most expensive.",
+            "E) The kiwis are the most expensive."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_4",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a crow, a falcon, a robin, and a blue jay. The robin is to the right of the cardinal. The cardinal is to the right of the blue jay. The blue jay is the second from the left. The crow is the rightmost.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the second from the left.",
+            "B) The crow is the second from the left.",
+            "C) The falcon is the second from the left.",
+            "D) The robin is the second from the left.",
+            "E) The blue jay is the second from the left."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_5",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a convertible, a sedan, a station wagon, a bus, and a limousine. The sedan is newer than the station wagon. The limousine is the newest. The bus is the second-newest. The convertible is the second-oldest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The convertible is the second-oldest.",
+            "B) The sedan is the second-oldest.",
+            "C) The station wagon is the second-oldest.",
+            "D) The bus is the second-oldest.",
+            "E) The limousine is the second-oldest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_6",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a crow, a robin, a quail, a blue jay, and a falcon. The robin is to the left of the quail. The falcon is the third from the left. The crow is to the left of the falcon. The blue jay is the leftmost.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The crow is the third from the left.",
+            "B) The robin is the third from the left.",
+            "C) The quail is the third from the left.",
+            "D) The blue jay is the third from the left.",
+            "E) The falcon is the third from the left."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_7",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a robin, a blue jay, a quail, and a raven. The robin is to the right of the raven. The cardinal is the leftmost. The raven is to the right of the blue jay. The blue jay is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the second from the left.",
+            "B) The robin is the second from the left.",
+            "C) The blue jay is the second from the left.",
+            "D) The quail is the second from the left.",
+            "E) The raven is the second from the left."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_8",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: an owl, a robin, a blue jay, a hawk, and a hummingbird. The owl is the second from the right. The robin is the second from the left. The robin is to the right of the blue jay. The hummingbird is to the right of the hawk.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The owl is the rightmost.",
+            "B) The robin is the rightmost.",
+            "C) The blue jay is the rightmost.",
+            "D) The hawk is the rightmost.",
+            "E) The hummingbird is the rightmost."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_9",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a brown book, an orange book, a red book, a purple book, and a black book. The purple book is to the left of the black book. The red book is to the right of the brown book. The orange book is the second from the left. The black book is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The brown book is the second from the right.",
+            "B) The orange book is the second from the right.",
+            "C) The red book is the second from the right.",
+            "D) The purple book is the second from the right.",
+            "E) The black book is the second from the right."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_10",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: an owl, a robin, a blue jay, a hawk, and a hummingbird. The owl is the second from the right. The robin is the second from the left. The robin is to the right of the blue jay. The hummingbird is to the right of the hawk.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The owl is the second from the left.",
+            "B) The robin is the second from the left.",
+            "C) The blue jay is the second from the left.",
+            "D) The hawk is the second from the left.",
+            "E) The hummingbird is the second from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_11",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a convertible, a truck, a bus, a sedan, and a motorcyle. The bus is newer than the truck. The truck is newer than the convertible. The sedan is the second-oldest. The motorcyle is newer than the bus.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The convertible is the newest.",
+            "B) The truck is the newest.",
+            "C) The bus is the newest.",
+            "D) The sedan is the newest.",
+            "E) The motorcyle is the newest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_12",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Eve, Rob, Ana, Eli, and Mya. Eli finished below Mya. Eve finished first. Ana finished below Eli. Rob finished second.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Eve finished third.",
+            "B) Rob finished third.",
+            "C) Ana finished third.",
+            "D) Eli finished third.",
+            "E) Mya finished third."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_13",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: apples, mangoes, oranges, plums, and pears. The oranges are more expensive than the mangoes. The plums are the cheapest. The apples are less expensive than the mangoes. The pears are more expensive than the oranges.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The apples are the cheapest.",
+            "B) The mangoes are the cheapest.",
+            "C) The oranges are the cheapest.",
+            "D) The plums are the cheapest.",
+            "E) The pears are the cheapest."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_14",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: mangoes, kiwis, plums, pears, and watermelons. The kiwis are less expensive than the plums. The pears are the third-most expensive. The kiwis are the second-cheapest. The watermelons are the most expensive.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The mangoes are the third-most expensive.",
+            "B) The kiwis are the third-most expensive.",
+            "C) The plums are the third-most expensive.",
+            "D) The pears are the third-most expensive.",
+            "E) The watermelons are the third-most expensive."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_15",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a green book, an orange book, a gray book, a yellow book, and a purple book. The green book is the rightmost. The gray book is to the right of the orange book. The purple book is to the left of the yellow book. The purple book is to the right of the gray book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The green book is the second from the left.",
+            "B) The orange book is the second from the left.",
+            "C) The gray book is the second from the left.",
+            "D) The yellow book is the second from the left.",
+            "E) The purple book is the second from the left."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_16",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: watermelons, oranges, loquats, plums, and kiwis. The plums are less expensive than the kiwis. The plums are more expensive than the watermelons. The loquats are more expensive than the kiwis. The oranges are the most expensive.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The watermelons are the second-cheapest.",
+            "B) The oranges are the second-cheapest.",
+            "C) The loquats are the second-cheapest.",
+            "D) The plums are the second-cheapest.",
+            "E) The kiwis are the second-cheapest."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_17",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: watermelons, apples, mangoes, pears, and cantaloupes. The watermelons are more expensive than the cantaloupes. The mangoes are less expensive than the pears. The apples are the second-cheapest. The watermelons are less expensive than the mangoes.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The watermelons are the cheapest.",
+            "B) The apples are the cheapest.",
+            "C) The mangoes are the cheapest.",
+            "D) The pears are the cheapest.",
+            "E) The cantaloupes are the cheapest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_18",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a hawk, a raven, a robin, a hummingbird, and a crow. The robin is the leftmost. The raven is the second from the left. The hawk is the second from the right. The crow is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The hawk is the second from the right.",
+            "B) The raven is the second from the right.",
+            "C) The robin is the second from the right.",
+            "D) The hummingbird is the second from the right.",
+            "E) The crow is the second from the right."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_19",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a tractor, a station wagon, a bus, a motorcyle, and a minivan. The minivan is older than the motorcyle. The bus is the newest. The tractor is the third-newest. The station wagon is the second-oldest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The tractor is the newest.",
+            "B) The station wagon is the newest.",
+            "C) The bus is the newest.",
+            "D) The motorcyle is the newest.",
+            "E) The minivan is the newest."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_20",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a blue jay, a raven, a crow, a falcon, and a quail. The crow is to the left of the quail. The falcon is the leftmost. The blue jay is to the right of the quail. The raven is the second from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue jay is the second from the left.",
+            "B) The raven is the second from the left.",
+            "C) The crow is the second from the left.",
+            "D) The falcon is the second from the left.",
+            "E) The quail is the second from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_21",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a truck, a motorcyle, a limousine, a station wagon, and a sedan. The limousine is older than the truck. The sedan is newer than the motorcyle. The station wagon is the oldest. The limousine is newer than the sedan.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The truck is the second-oldest.",
+            "B) The motorcyle is the second-oldest.",
+            "C) The limousine is the second-oldest.",
+            "D) The station wagon is the second-oldest.",
+            "E) The sedan is the second-oldest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_22",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a green book, a blue book, a brown book, a gray book, and a red book. The green book is to the left of the brown book. The gray book is to the left of the blue book. The green book is to the right of the blue book. The red book is the leftmost.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The green book is the second from the right.",
+            "B) The blue book is the second from the right.",
+            "C) The brown book is the second from the right.",
+            "D) The gray book is the second from the right.",
+            "E) The red book is the second from the right."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_23",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a green book, a blue book, a white book, a purple book, and a yellow book. The blue book is to the right of the yellow book. The white book is to the left of the yellow book. The blue book is the second from the right. The purple book is the second from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The green book is the leftmost.",
+            "B) The blue book is the leftmost.",
+            "C) The white book is the leftmost.",
+            "D) The purple book is the leftmost.",
+            "E) The yellow book is the leftmost."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_24",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a truck, a station wagon, a motorcyle, a limousine, and a hatchback. The motorcyle is the second-newest. The truck is newer than the limousine. The motorcyle is older than the station wagon. The limousine is newer than the hatchback.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The truck is the newest.",
+            "B) The station wagon is the newest.",
+            "C) The motorcyle is the newest.",
+            "D) The limousine is the newest.",
+            "E) The hatchback is the newest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_25",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a blue book, a purple book, a yellow book, a black book, and a green book. The purple book is the third from the left. The yellow book is to the left of the black book. The green book is to the left of the purple book. The blue book is to the left of the green book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue book is the second from the right.",
+            "B) The purple book is the second from the right.",
+            "C) The yellow book is the second from the right.",
+            "D) The black book is the second from the right.",
+            "E) The green book is the second from the right."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_26",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Amy, Dan, Mya, Eli, and Mel. Amy finished above Mel. Mya finished first. Amy finished below Eli. Dan finished last.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Amy finished first.",
+            "B) Dan finished first.",
+            "C) Mya finished first.",
+            "D) Eli finished first.",
+            "E) Mel finished first."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_27",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: an owl, a robin, a blue jay, a hawk, and a hummingbird. The owl is the second from the right. The robin is the second from the left. The robin is to the right of the blue jay. The hummingbird is to the right of the hawk.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The owl is the leftmost.",
+            "B) The robin is the leftmost.",
+            "C) The blue jay is the leftmost.",
+            "D) The hawk is the leftmost.",
+            "E) The hummingbird is the leftmost."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_28",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a convertible, a bus, a minivan, a truck, and a sedan. The convertible is newer than the truck. The minivan is the newest. The bus is the third-newest. The truck is newer than the sedan.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The convertible is the second-newest.",
+            "B) The bus is the second-newest.",
+            "C) The minivan is the second-newest.",
+            "D) The truck is the second-newest.",
+            "E) The sedan is the second-newest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_29",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a truck, a station wagon, a motorcyle, a convertible, and a hatchback. The convertible is newer than the truck. The station wagon is newer than the hatchback. The convertible is older than the hatchback. The station wagon is the second-newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The truck is the second-newest.",
+            "B) The station wagon is the second-newest.",
+            "C) The motorcyle is the second-newest.",
+            "D) The convertible is the second-newest.",
+            "E) The hatchback is the second-newest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_30",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: watermelons, apples, kiwis, cantaloupes, and mangoes. The cantaloupes are the second-cheapest. The mangoes are more expensive than the watermelons. The kiwis are less expensive than the apples. The kiwis are more expensive than the mangoes.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The watermelons are the cheapest.",
+            "B) The apples are the cheapest.",
+            "C) The kiwis are the cheapest.",
+            "D) The cantaloupes are the cheapest.",
+            "E) The mangoes are the cheapest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_31",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: an owl, a cardinal, a robin, a hummingbird, and a crow. The hummingbird is to the left of the owl. The hummingbird is to the right of the cardinal. The crow is to the left of the robin. The owl is to the left of the crow.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The owl is the leftmost.",
+            "B) The cardinal is the leftmost.",
+            "C) The robin is the leftmost.",
+            "D) The hummingbird is the leftmost.",
+            "E) The crow is the leftmost."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_32",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Rob, Eve, Eli, Amy, and Dan. Dan finished second. Amy finished below Eve. Dan finished above Eve. Amy finished above Eli.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Rob finished third.",
+            "B) Eve finished third.",
+            "C) Eli finished third.",
+            "D) Amy finished third.",
+            "E) Dan finished third."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_33",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a gray book, a red book, a yellow book, a blue book, and an orange book. The gray book is to the right of the yellow book. The orange book is to the right of the red book. The blue book is the rightmost. The gray book is to the left of the red book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The gray book is the leftmost.",
+            "B) The red book is the leftmost.",
+            "C) The yellow book is the leftmost.",
+            "D) The blue book is the leftmost.",
+            "E) The orange book is the leftmost."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_34",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a blue jay, a robin, a cardinal, a hawk, and a falcon. The blue jay is the rightmost. The robin is to the right of the falcon. The cardinal is to the left of the hawk. The falcon is to the right of the hawk.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue jay is the second from the right.",
+            "B) The robin is the second from the right.",
+            "C) The cardinal is the second from the right.",
+            "D) The hawk is the second from the right.",
+            "E) The falcon is the second from the right."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_35",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a white book, an orange book, a yellow book, a blue book, and a red book. The yellow book is to the left of the white book. The red book is to the right of the blue book. The yellow book is to the right of the orange book. The blue book is to the right of the white book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The white book is the second from the right.",
+            "B) The orange book is the second from the right.",
+            "C) The yellow book is the second from the right.",
+            "D) The blue book is the second from the right.",
+            "E) The red book is the second from the right."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_36",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Dan, Amy, Eve, Ana, and Mya. Dan finished above Eve. Dan finished below Mya. Amy finished third. Ana finished second-to-last.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Dan finished last.",
+            "B) Amy finished last.",
+            "C) Eve finished last.",
+            "D) Ana finished last.",
+            "E) Mya finished last."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_37",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Joe, Ana, Amy, Mya, and Eve. Joe finished last. Ana finished second. Mya finished second-to-last. Eve finished below Amy.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Joe finished first.",
+            "B) Ana finished first.",
+            "C) Amy finished first.",
+            "D) Mya finished first.",
+            "E) Eve finished first."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_38",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a sedan, a convertible, a station wagon, a bus, and a motorcyle. The sedan is the second-newest. The station wagon is newer than the convertible. The sedan is older than the motorcyle. The bus is the oldest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The sedan is the second-oldest.",
+            "B) The convertible is the second-oldest.",
+            "C) The station wagon is the second-oldest.",
+            "D) The bus is the second-oldest.",
+            "E) The motorcyle is the second-oldest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_39",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a green book, a blue book, a brown book, a gray book, and a red book. The green book is to the left of the brown book. The gray book is to the left of the blue book. The green book is to the right of the blue book. The red book is the leftmost.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The green book is the third from the left.",
+            "B) The blue book is the third from the left.",
+            "C) The brown book is the third from the left.",
+            "D) The gray book is the third from the left.",
+            "E) The red book is the third from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_40",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: cantaloupes, kiwis, oranges, mangoes, and peaches. The kiwis are less expensive than the mangoes. The peaches are less expensive than the oranges. The oranges are the second-most expensive. The mangoes are the second-cheapest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cantaloupes are the second-cheapest.",
+            "B) The kiwis are the second-cheapest.",
+            "C) The oranges are the second-cheapest.",
+            "D) The mangoes are the second-cheapest.",
+            "E) The peaches are the second-cheapest."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_41",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a crow, a falcon, a robin, and a blue jay. The robin is to the right of the cardinal. The cardinal is to the right of the blue jay. The blue jay is the second from the left. The crow is the rightmost.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the leftmost.",
+            "B) The crow is the leftmost.",
+            "C) The falcon is the leftmost.",
+            "D) The robin is the leftmost.",
+            "E) The blue jay is the leftmost."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_42",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a minivan, a limousine, a sedan, a tractor, and a hatchback. The tractor is the second-newest. The limousine is newer than the hatchback. The limousine is older than the sedan. The minivan is newer than the sedan.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The minivan is the oldest.",
+            "B) The limousine is the oldest.",
+            "C) The sedan is the oldest.",
+            "D) The tractor is the oldest.",
+            "E) The hatchback is the oldest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_43",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: an owl, a crow, a raven, a robin, and a cardinal. The raven is to the right of the owl. The raven is the second from the left. The robin is to the left of the crow. The robin is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The owl is the second from the left.",
+            "B) The crow is the second from the left.",
+            "C) The raven is the second from the left.",
+            "D) The robin is the second from the left.",
+            "E) The cardinal is the second from the left."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_44",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: pears, mangoes, kiwis, oranges, and peaches. The peaches are more expensive than the mangoes. The oranges are more expensive than the kiwis. The pears are the most expensive. The mangoes are more expensive than the oranges.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The pears are the second-cheapest.",
+            "B) The mangoes are the second-cheapest.",
+            "C) The kiwis are the second-cheapest.",
+            "D) The oranges are the second-cheapest.",
+            "E) The peaches are the second-cheapest."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_45",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a robin, a blue jay, a quail, and a raven. The robin is to the right of the raven. The cardinal is the leftmost. The raven is to the right of the blue jay. The blue jay is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the second from the right.",
+            "B) The robin is the second from the right.",
+            "C) The blue jay is the second from the right.",
+            "D) The quail is the second from the right.",
+            "E) The raven is the second from the right."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_46",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a yellow book, a green book, a gray book, a blue book, and an orange book. The gray book is to the left of the green book. The gray book is the second from the right. The yellow book is to the right of the orange book. The blue book is the second from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The yellow book is the rightmost.",
+            "B) The green book is the rightmost.",
+            "C) The gray book is the rightmost.",
+            "D) The blue book is the rightmost.",
+            "E) The orange book is the rightmost."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_47",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a blue jay, a robin, a cardinal, a hawk, and a falcon. The blue jay is the rightmost. The robin is to the right of the falcon. The cardinal is to the left of the hawk. The falcon is to the right of the hawk.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue jay is the rightmost.",
+            "B) The robin is the rightmost.",
+            "C) The cardinal is the rightmost.",
+            "D) The hawk is the rightmost.",
+            "E) The falcon is the rightmost."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_48",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: mangoes, kiwis, watermelons, oranges, and apples. The oranges are the cheapest. The kiwis are less expensive than the mangoes. The watermelons are more expensive than the apples. The watermelons are less expensive than the kiwis.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The mangoes are the most expensive.",
+            "B) The kiwis are the most expensive.",
+            "C) The watermelons are the most expensive.",
+            "D) The oranges are the most expensive.",
+            "E) The apples are the most expensive."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_49",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: peaches, watermelons, pears, apples, and cantaloupes. The watermelons are the second-cheapest. The apples are the cheapest. The peaches are the most expensive. The pears are less expensive than the cantaloupes.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The peaches are the most expensive.",
+            "B) The watermelons are the most expensive.",
+            "C) The pears are the most expensive.",
+            "D) The apples are the most expensive.",
+            "E) The cantaloupes are the most expensive."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_50",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a crow, a falcon, a hawk, a robin, and a quail. The robin is to the right of the falcon. The quail is to the left of the hawk. The robin is the second from the left. The hawk is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The crow is the third from the left.",
+            "B) The falcon is the third from the left.",
+            "C) The hawk is the third from the left.",
+            "D) The robin is the third from the left.",
+            "E) The quail is the third from the left."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_51",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a minivan, a hatchback, a bus, a convertible, and a motorcyle. The hatchback is newer than the convertible. The bus is newer than the hatchback. The bus is older than the motorcyle. The minivan is the newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The minivan is the newest.",
+            "B) The hatchback is the newest.",
+            "C) The bus is the newest.",
+            "D) The convertible is the newest.",
+            "E) The motorcyle is the newest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_52",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a hawk, a hummingbird, a raven, and an owl. The raven is to the left of the hummingbird. The hawk is to the left of the owl. The cardinal is to the left of the hawk. The raven is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the leftmost.",
+            "B) The hawk is the leftmost.",
+            "C) The hummingbird is the leftmost.",
+            "D) The raven is the leftmost.",
+            "E) The owl is the leftmost."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_53",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a black book, a brown book, a yellow book, an orange book, and a red book. The black book is to the left of the yellow book. The red book is the third from the left. The brown book is the second from the left. The yellow book is to the left of the orange book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The black book is the rightmost.",
+            "B) The brown book is the rightmost.",
+            "C) The yellow book is the rightmost.",
+            "D) The orange book is the rightmost.",
+            "E) The red book is the rightmost."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_54",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: watermelons, loquats, pears, plums, and apples. The pears are the second-cheapest. The loquats are more expensive than the pears. The plums are the second-most expensive. The watermelons are the most expensive.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The watermelons are the cheapest.",
+            "B) The loquats are the cheapest.",
+            "C) The pears are the cheapest.",
+            "D) The plums are the cheapest.",
+            "E) The apples are the cheapest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_55",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a crow, a falcon, a hawk, a robin, and a quail. The robin is to the right of the falcon. The quail is to the left of the hawk. The robin is the second from the left. The hawk is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The crow is the rightmost.",
+            "B) The falcon is the rightmost.",
+            "C) The hawk is the rightmost.",
+            "D) The robin is the rightmost.",
+            "E) The quail is the rightmost."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_56",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: mangoes, kiwis, watermelons, oranges, and apples. The oranges are the cheapest. The kiwis are less expensive than the mangoes. The watermelons are more expensive than the apples. The watermelons are less expensive than the kiwis.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The mangoes are the second-cheapest.",
+            "B) The kiwis are the second-cheapest.",
+            "C) The watermelons are the second-cheapest.",
+            "D) The oranges are the second-cheapest.",
+            "E) The apples are the second-cheapest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_57",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a hatchback, a limousine, a sedan, a bus, and a tractor. The tractor is newer than the hatchback. The bus is the second-oldest. The hatchback is newer than the sedan. The limousine is the newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The hatchback is the third-newest.",
+            "B) The limousine is the third-newest.",
+            "C) The sedan is the third-newest.",
+            "D) The bus is the third-newest.",
+            "E) The tractor is the third-newest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_58",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a brown book, an orange book, a red book, a purple book, and a black book. The purple book is to the left of the black book. The red book is to the right of the brown book. The orange book is the second from the left. The black book is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The brown book is the second from the left.",
+            "B) The orange book is the second from the left.",
+            "C) The red book is the second from the left.",
+            "D) The purple book is the second from the left.",
+            "E) The black book is the second from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_59",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: cantaloupes, kiwis, oranges, mangoes, and peaches. The kiwis are less expensive than the mangoes. The peaches are less expensive than the oranges. The oranges are the second-most expensive. The mangoes are the second-cheapest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cantaloupes are the third-most expensive.",
+            "B) The kiwis are the third-most expensive.",
+            "C) The oranges are the third-most expensive.",
+            "D) The mangoes are the third-most expensive.",
+            "E) The peaches are the third-most expensive."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_60",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a bus, a truck, a motorcyle, a sedan, and a hatchback. The sedan is the second-oldest. The hatchback is newer than the motorcyle. The motorcyle is newer than the sedan. The hatchback is older than the truck.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The bus is the second-oldest.",
+            "B) The truck is the second-oldest.",
+            "C) The motorcyle is the second-oldest.",
+            "D) The sedan is the second-oldest.",
+            "E) The hatchback is the second-oldest."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_61",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a gray book, a red book, a purple book, a blue book, and a black book. The red book is to the right of the gray book. The black book is to the left of the blue book. The blue book is to the left of the gray book. The purple book is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The gray book is the second from the right.",
+            "B) The red book is the second from the right.",
+            "C) The purple book is the second from the right.",
+            "D) The blue book is the second from the right.",
+            "E) The black book is the second from the right."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_62",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: mangoes, kiwis, plums, pears, and watermelons. The kiwis are less expensive than the plums. The pears are the third-most expensive. The kiwis are the second-cheapest. The watermelons are the most expensive.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The mangoes are the most expensive.",
+            "B) The kiwis are the most expensive.",
+            "C) The plums are the most expensive.",
+            "D) The pears are the most expensive.",
+            "E) The watermelons are the most expensive."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_63",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: cantaloupes, kiwis, oranges, mangoes, and peaches. The kiwis are less expensive than the mangoes. The peaches are less expensive than the oranges. The oranges are the second-most expensive. The mangoes are the second-cheapest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cantaloupes are the cheapest.",
+            "B) The kiwis are the cheapest.",
+            "C) The oranges are the cheapest.",
+            "D) The mangoes are the cheapest.",
+            "E) The peaches are the cheapest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_64",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a blue jay, a cardinal, a hawk, a hummingbird, and a quail. The quail is to the left of the blue jay. The cardinal is the third from the left. The quail is the second from the left. The blue jay is to the left of the hummingbird.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue jay is the third from the left.",
+            "B) The cardinal is the third from the left.",
+            "C) The hawk is the third from the left.",
+            "D) The hummingbird is the third from the left.",
+            "E) The quail is the third from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_65",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a tractor, a station wagon, a minivan, a sedan, and a hatchback. The minivan is older than the sedan. The tractor is older than the hatchback. The minivan is the third-newest. The station wagon is the second-newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The tractor is the second-newest.",
+            "B) The station wagon is the second-newest.",
+            "C) The minivan is the second-newest.",
+            "D) The sedan is the second-newest.",
+            "E) The hatchback is the second-newest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_66",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Joe, Eve, Mya, Rob, and Dan. Joe finished below Dan. Mya finished first. Dan finished below Rob. Eve finished above Rob.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Joe finished last.",
+            "B) Eve finished last.",
+            "C) Mya finished last.",
+            "D) Rob finished last.",
+            "E) Dan finished last."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_67",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a hawk, a hummingbird, a raven, and an owl. The raven is to the left of the hummingbird. The hawk is to the left of the owl. The cardinal is to the left of the hawk. The raven is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the third from the left.",
+            "B) The hawk is the third from the left.",
+            "C) The hummingbird is the third from the left.",
+            "D) The raven is the third from the left.",
+            "E) The owl is the third from the left."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_68",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Mel, Dan, Amy, Joe, and Eve. Amy finished below Dan. Mel finished first. Joe finished above Dan. Eve finished last.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Mel finished last.",
+            "B) Dan finished last.",
+            "C) Amy finished last.",
+            "D) Joe finished last.",
+            "E) Eve finished last."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_69",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: loquats, peaches, pears, plums, and watermelons. The watermelons are the most expensive. The peaches are more expensive than the loquats. The plums are the second-cheapest. The pears are the third-most expensive.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The loquats are the second-most expensive.",
+            "B) The peaches are the second-most expensive.",
+            "C) The pears are the second-most expensive.",
+            "D) The plums are the second-most expensive.",
+            "E) The watermelons are the second-most expensive."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_70",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a hatchback, a limousine, a sedan, a bus, and a tractor. The tractor is newer than the hatchback. The bus is the second-oldest. The hatchback is newer than the sedan. The limousine is the newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The hatchback is the oldest.",
+            "B) The limousine is the oldest.",
+            "C) The sedan is the oldest.",
+            "D) The bus is the oldest.",
+            "E) The tractor is the oldest."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_71",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a convertible, a sedan, a tractor, a minivan, and a limousine. The tractor is newer than the minivan. The tractor is older than the limousine. The convertible is older than the sedan. The convertible is the second-newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The convertible is the third-newest.",
+            "B) The sedan is the third-newest.",
+            "C) The tractor is the third-newest.",
+            "D) The minivan is the third-newest.",
+            "E) The limousine is the third-newest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_72",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a hatchback, a convertible, a tractor, a truck, and a limousine. The tractor is newer than the hatchback. The limousine is the second-newest. The truck is older than the hatchback. The convertible is the second-oldest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The hatchback is the second-newest.",
+            "B) The convertible is the second-newest.",
+            "C) The tractor is the second-newest.",
+            "D) The truck is the second-newest.",
+            "E) The limousine is the second-newest."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_73",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a falcon, a raven, a cardinal, a hawk, and a crow. The cardinal is the second from the right. The hawk is to the right of the falcon. The raven is the second from the left. The crow is the rightmost.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The falcon is the second from the left.",
+            "B) The raven is the second from the left.",
+            "C) The cardinal is the second from the left.",
+            "D) The hawk is the second from the left.",
+            "E) The crow is the second from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_74",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Ana, Rob, Amy, Dan, and Joe. Rob finished below Dan. Joe finished below Ana. Joe finished above Amy. Dan finished below Amy.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Ana finished third.",
+            "B) Rob finished third.",
+            "C) Amy finished third.",
+            "D) Dan finished third.",
+            "E) Joe finished third."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_75",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a blue book, a red book, a brown book, a yellow book, and an orange book. The red book is to the left of the brown book. The yellow book is to the right of the orange book. The brown book is the second from the left. The yellow book is to the left of the blue book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue book is the second from the right.",
+            "B) The red book is the second from the right.",
+            "C) The brown book is the second from the right.",
+            "D) The yellow book is the second from the right.",
+            "E) The orange book is the second from the right."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_76",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a minivan, a limousine, a sedan, a tractor, and a hatchback. The tractor is the second-newest. The limousine is newer than the hatchback. The limousine is older than the sedan. The minivan is newer than the sedan.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The minivan is the second-oldest.",
+            "B) The limousine is the second-oldest.",
+            "C) The sedan is the second-oldest.",
+            "D) The tractor is the second-oldest.",
+            "E) The hatchback is the second-oldest."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_77",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Rob, Amy, Eve, Mya, and Ana. Mya finished below Rob. Ana finished below Eve. Amy finished second. Eve finished below Mya.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Rob finished second-to-last.",
+            "B) Amy finished second-to-last.",
+            "C) Eve finished second-to-last.",
+            "D) Mya finished second-to-last.",
+            "E) Ana finished second-to-last."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_78",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a blue jay, a raven, a crow, a falcon, and a quail. The crow is to the left of the quail. The falcon is the leftmost. The blue jay is to the right of the quail. The raven is the second from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue jay is the rightmost.",
+            "B) The raven is the rightmost.",
+            "C) The crow is the rightmost.",
+            "D) The falcon is the rightmost.",
+            "E) The quail is the rightmost."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_79",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a hawk, a hummingbird, a raven, and an owl. The raven is to the left of the hummingbird. The hawk is to the left of the owl. The cardinal is to the left of the hawk. The raven is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the second from the left.",
+            "B) The hawk is the second from the left.",
+            "C) The hummingbird is the second from the left.",
+            "D) The raven is the second from the left.",
+            "E) The owl is the second from the left."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_80",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a yellow book, a green book, a gray book, a blue book, and an orange book. The gray book is to the left of the green book. The gray book is the second from the right. The yellow book is to the right of the orange book. The blue book is the second from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The yellow book is the third from the left.",
+            "B) The green book is the third from the left.",
+            "C) The gray book is the third from the left.",
+            "D) The blue book is the third from the left.",
+            "E) The orange book is the third from the left."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_81",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a blue book, a purple book, a yellow book, a red book, and a gray book. The yellow book is to the right of the gray book. The purple book is to the left of the gray book. The red book is to the right of the blue book. The purple book is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue book is the leftmost.",
+            "B) The purple book is the leftmost.",
+            "C) The yellow book is the leftmost.",
+            "D) The red book is the leftmost.",
+            "E) The gray book is the leftmost."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_82",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a blue book, a purple book, a yellow book, a red book, and a gray book. The yellow book is to the right of the gray book. The purple book is to the left of the gray book. The red book is to the right of the blue book. The purple book is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue book is the second from the left.",
+            "B) The purple book is the second from the left.",
+            "C) The yellow book is the second from the left.",
+            "D) The red book is the second from the left.",
+            "E) The gray book is the second from the left."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_83",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Ada, Eli, Amy, Joe, and Mel. Ada finished above Eli. Amy finished below Mel. Ada finished second. Mel finished below Eli.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Ada finished second.",
+            "B) Eli finished second.",
+            "C) Amy finished second.",
+            "D) Joe finished second.",
+            "E) Mel finished second."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_84",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a tractor, a station wagon, a minivan, a sedan, and a hatchback. The minivan is older than the sedan. The tractor is older than the hatchback. The minivan is the third-newest. The station wagon is the second-newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The tractor is the third-newest.",
+            "B) The station wagon is the third-newest.",
+            "C) The minivan is the third-newest.",
+            "D) The sedan is the third-newest.",
+            "E) The hatchback is the third-newest."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_85",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a gray book, a red book, a yellow book, a blue book, and an orange book. The gray book is to the right of the yellow book. The orange book is to the right of the red book. The blue book is the rightmost. The gray book is to the left of the red book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The gray book is the rightmost.",
+            "B) The red book is the rightmost.",
+            "C) The yellow book is the rightmost.",
+            "D) The blue book is the rightmost.",
+            "E) The orange book is the rightmost."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_86",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn a golf tournament, there were five golfers: Eve, Eli, Joe, Rob, and Mya. Rob finished above Mya. Eve finished first. Joe finished above Eli. Joe finished below Mya.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) Eve finished last.",
+            "B) Eli finished last.",
+            "C) Joe finished last.",
+            "D) Rob finished last.",
+            "E) Mya finished last."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_87",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: loquats, pears, watermelons, kiwis, and plums. The loquats are the third-most expensive. The loquats are more expensive than the watermelons. The plums are less expensive than the watermelons. The kiwis are more expensive than the pears.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The loquats are the second-most expensive.",
+            "B) The pears are the second-most expensive.",
+            "C) The watermelons are the second-most expensive.",
+            "D) The kiwis are the second-most expensive.",
+            "E) The plums are the second-most expensive."
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "logical_deduction_88",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nA fruit stand sells five fruits: mangoes, cantaloupes, plums, oranges, and watermelons. The oranges are more expensive than the watermelons. The watermelons are the second-cheapest. The plums are less expensive than the cantaloupes. The plums are the second-most expensive.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The mangoes are the second-most expensive.",
+            "B) The cantaloupes are the second-most expensive.",
+            "C) The plums are the second-most expensive.",
+            "D) The oranges are the second-most expensive.",
+            "E) The watermelons are the second-most expensive."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_89",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a station wagon, a sedan, a tractor, a motorcyle, and a limousine. The tractor is newer than the motorcyle. The motorcyle is newer than the sedan. The limousine is the oldest. The station wagon is the newest.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The station wagon is the second-newest.",
+            "B) The sedan is the second-newest.",
+            "C) The tractor is the second-newest.",
+            "D) The motorcyle is the second-newest.",
+            "E) The limousine is the second-newest."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_90",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a green book, an orange book, a gray book, a yellow book, and a purple book. The green book is the rightmost. The gray book is to the right of the orange book. The purple book is to the left of the yellow book. The purple book is to the right of the gray book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The green book is the third from the left.",
+            "B) The orange book is the third from the left.",
+            "C) The gray book is the third from the left.",
+            "D) The yellow book is the third from the left.",
+            "E) The purple book is the third from the left."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_91",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a tractor, a truck, a bus, a minivan, and a convertible. The bus is newer than the tractor. The convertible is older than the tractor. The truck is the second-newest. The minivan is older than the convertible.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The tractor is the third-newest.",
+            "B) The truck is the third-newest.",
+            "C) The bus is the third-newest.",
+            "D) The minivan is the third-newest.",
+            "E) The convertible is the third-newest."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_92",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a white book, a green book, a brown book, a gray book, and an orange book. The gray book is to the right of the orange book. The green book is the second from the right. The brown book is to the right of the white book. The brown book is to the left of the orange book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The white book is the second from the left.",
+            "B) The green book is the second from the left.",
+            "C) The brown book is the second from the left.",
+            "D) The gray book is the second from the left.",
+            "E) The orange book is the second from the left."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_93",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a cardinal, a hawk, a hummingbird, a raven, and an owl. The raven is to the left of the hummingbird. The hawk is to the left of the owl. The cardinal is to the left of the hawk. The raven is the second from the right.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The cardinal is the rightmost.",
+            "B) The hawk is the rightmost.",
+            "C) The hummingbird is the rightmost.",
+            "D) The raven is the rightmost.",
+            "E) The owl is the rightmost."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_94",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a quail, a hummingbird, a blue jay, a hawk, and a robin. The robin is the second from the left. The quail is the leftmost. The blue jay is to the left of the hummingbird. The hawk is the third from the left.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The quail is the leftmost.",
+            "B) The hummingbird is the leftmost.",
+            "C) The blue jay is the leftmost.",
+            "D) The hawk is the leftmost.",
+            "E) The robin is the leftmost."
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "logical_deduction_95",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a blue jay, a cardinal, a hawk, a hummingbird, and a quail. The quail is to the left of the blue jay. The cardinal is the third from the left. The quail is the second from the left. The blue jay is to the left of the hummingbird.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue jay is the leftmost.",
+            "B) The cardinal is the leftmost.",
+            "C) The hawk is the leftmost.",
+            "D) The hummingbird is the leftmost.",
+            "E) The quail is the leftmost."
+        ],
+        "answer": "C"
+    },
+    {
+        "id": "logical_deduction_96",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a tractor, a truck, a bus, a minivan, and a convertible. The bus is newer than the tractor. The convertible is older than the tractor. The truck is the second-newest. The minivan is older than the convertible.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The tractor is the oldest.",
+            "B) The truck is the oldest.",
+            "C) The bus is the oldest.",
+            "D) The minivan is the oldest.",
+            "E) The convertible is the oldest."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_97",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a blue book, a red book, a brown book, a yellow book, and an orange book. The red book is to the left of the brown book. The yellow book is to the right of the orange book. The brown book is the second from the left. The yellow book is to the left of the blue book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The blue book is the third from the left.",
+            "B) The red book is the third from the left.",
+            "C) The brown book is the third from the left.",
+            "D) The yellow book is the third from the left.",
+            "E) The orange book is the third from the left."
+        ],
+        "answer": "E"
+    },
+    {
+        "id": "logical_deduction_98",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a shelf, there are five books: a yellow book, a gray book, a red book, a black book, and a white book. The gray book is to the left of the yellow book. The white book is to the left of the red book. The black book is to the right of the red book. The black book is to the left of the gray book.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The yellow book is the third from the left.",
+            "B) The gray book is the third from the left.",
+            "C) The red book is the third from the left.",
+            "D) The black book is the third from the left.",
+            "E) The white book is the third from the left."
+        ],
+        "answer": "D"
+    },
+    {
+        "id": "logical_deduction_99",
+        "context": "The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nIn an antique car show, there are five vehicles: a convertible, a truck, a bus, a sedan, and a motorcyle. The bus is newer than the truck. The truck is newer than the convertible. The sedan is the second-oldest. The motorcyle is newer than the bus.",
+        "question": "Which of the following is true?",
+        "options": [
+            "A) The convertible is the third-newest.",
+            "B) The truck is the third-newest.",
+            "C) The bus is the third-newest.",
+            "D) The sedan is the third-newest.",
+            "E) The motorcyle is the third-newest."
+        ],
+        "answer": "B"
+    }
+]
