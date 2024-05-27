@@ -1,8 +1,8 @@
 # DetermLR
 
-This repository is the official implementation of our paper [**From indeterminacy to determinacy: augmenting logical reasoning capabilities with large language models**](https://arxiv.org/abs/2310.18659).
+This repository is the official implementation of our paper [**DetermLR: Augmenting LLM-based Logical Reasoning from Indeterminacy to Determinacy**](https://arxiv.org/abs/2310.18659), which has been accepted at ACL 2024 main.
 
-![sdfsd](determlr.png)
+![sdfsd](determlr_new.png)
 
 ## Installation
 
@@ -71,8 +71,8 @@ Please cite the paper and star this repo if you use DetermLR and find it interes
 
 Feel free to contact xuwk266@gmail.com for any questions.
 ```bibtex
-@article{sun2023indeterminacy,
-      title={From Indeterminacy to Determinacy: Augmenting Logical Reasoning Capabilities with Large Language Models}, 
+@article{sun2023DetermLR,
+      title={DetermLR: Augmenting LLM-based Logical Reasoning from Indeterminacy to Determinacy}, 
       author={Sun, Hongda and Xu, Weikai and Liu, Wei and Luan, Jian and Wang, Bin and Shang, Shuo and Wen, Ji-Rong and Yan, Rui},
       journal={arXiv preprint arXiv:2310.18659},
       year={2023}
